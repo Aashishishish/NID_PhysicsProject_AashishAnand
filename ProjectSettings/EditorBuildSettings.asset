@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Physics Exercise.unity
+    guid: 871a7a2c9837aa04ca609e44a7264baa
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/V1.unity
+    guid: a8180f7ad8ec7db418d2b681f22f3761
+  - enabled: 1
+    path: Assets/Scenes/V2.unity
+    guid: 908d57e8bb8d0704d813add36e9c1bbd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
